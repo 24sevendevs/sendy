@@ -17,7 +17,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "TFS\\Sendy\\": "packages/TFS/Sendy/src"
+            "TFS\\Sendy\\": "src/"
         }
     },
     "extra": {
